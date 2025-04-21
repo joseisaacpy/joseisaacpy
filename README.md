@@ -1,28 +1,39 @@
-## Bem-vindo(a) ao meu perfil! 🧑🏽‍💻
+# Bem-vindo(a) ao meu perfil! 🧑🏽‍💻
 
- <div>
-   <a href="https://github.com/joseisaacpy">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseisaacpy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseisaacpy&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
- <!--Quando quiser colocar uma img de linguagem de programação, use esse modelo: -->
- <!--<img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> -->
-          
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
+
+<p align="left"> 
+👋 Olá! Eu me chamo José Isaac
  
-<br>
+ 🧑🏽‍💻 Sou desenvolvedor com foco em <strong>Front-end</strong>, apaixonado por tecnologia e inovação.
  
-### Redes Sociais:
+ 🎓 Atualmente curso Análise e Desenvolvimento de Sistemas.
  
-<div> 
-<!--   <a href="https://www.youtube.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-  <a href="https://www.instagram.com/j0se_isaacsn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<!--  <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
-  <a href = "https://is.gd/tUWByl"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-isaac-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+ 🚀 Sempre buscando evoluir como dev e transformar ideias em interfaces incríveis!
+</p>
+
+### 💻 Linguagens:
+- 🟠 HTML  
+- 🔵 CSS  
+- 🟡 JavaScript  
+
+### 💼 Ferramentas:
+- 🧰 Git & GitHub  
+- 🖥️ VS Code  
+- 🎨 Figma
+
+### 💌 Fale comigo:
+<p align="left">
+  <a href="mailto:joseisaacnascimento@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-isaac-nascimento/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/seunumero" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.instagram.com/j0se_isaacsn/" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>

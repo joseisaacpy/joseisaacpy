@@ -1,6 +1,6 @@
 # Bem-vindo(a) ao meu perfil! 🧑🏽‍💻
 
-<img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-8ba8-61f7-a939-106903d830f1/raw?se=2025-04-21T23%3A06%3A54Z&sp=r&sv=2024-08-04&sr=b&scid=3a8058dc-9307-56b5-ae60-a2c333432841&skoid=ae70be19-8043-4428-a990-27c58b478304&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-20T23%3A27%3A05Z&ske=2025-04-21T23%3A27%3A05Z&sks=b&skv=2024-08-04&sig=cs4WKqIBgDCdLOO3Im8cZUlGOLHLA5N9ZFqnV2M19/w%3D" alt="Isaac animado programando" width="300px" align="right" >
+<img src="./readme-github.png" alt="Isaac animado programando" width="300px" align="right" >
 
 <p align="left"> 
 👋 Olá! Eu me chamo José Isaac

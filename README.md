@@ -13,27 +13,31 @@
 </p>
 
 ### 💻 Linguagens:
+<!--
 - 🟠 HTML  
 - 🔵 CSS  
-- 🟡 JavaScript  
+- 🟡 JavaScript
+-->
+[![Tecnologias](https://skillicons.dev/icons?i=js,html,css,nodejs,express&theme=dark)](https://skillicons.dev)
 
 ### 💼 Ferramentas:
+<!--
 - 🧰 Git & GitHub  
 - 🖥️ VS Code  
 - 🎨 Figma
+-->
+[![Ferramentas](https://skillicons.dev/icons?i=vscode,git,github,figma&theme=dark)](https://skillicons.dev)
+
 
 ### 💌 Fale comigo:
 <p align="left">
   <a href="mailto:joseisaacnascimento@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-isaac-nascimento/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/seunumero" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/j0se_isaacsn/" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram"/>
   </a>
 </p>

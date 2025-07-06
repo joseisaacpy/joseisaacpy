@@ -13,20 +13,12 @@
 </p>
 
 ### 💻 Linguagens:
-<!--
-- 🟠 HTML  
-- 🔵 CSS  
-- 🟡 JavaScript
--->
-[![Tecnologias](https://skillicons.dev/icons?i=js,html,css,nodejs,express&theme=dark)](https://skillicons.dev)
+
+[![Tecnologias](https://skillicons.dev/icons?i=js,html,css,tailwindcss,nodejs,express&theme=dark)](https://skillicons.dev)
 
 ### 💼 Ferramentas:
-<!--
-- 🧰 Git & GitHub  
-- 🖥️ VS Code  
-- 🎨 Figma
--->
-[![Ferramentas](https://skillicons.dev/icons?i=vscode,git,github,figma&theme=dark)](https://skillicons.dev)
+
+[![Ferramentas](https://skillicons.dev/icons?i=vscode,git,github,figma,supabase,mongo,postgresql,mysql,vercel,netlify&theme=dark)](https://skillicons.dev)
 
 
 ### 💌 Fale comigo:

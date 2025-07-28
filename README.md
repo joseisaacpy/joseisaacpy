@@ -14,7 +14,7 @@
 
 ### 💻 Linguagens:
 
-[![Tecnologias](https://skillicons.dev/icons?i=js,html,css,tailwindcss,nodejs,express&theme=dark)](https://skillicons.dev)
+[![Tecnologias](https://skillicons.dev/icons?i=js,html,css,react,tailwindcss,nodejs,express&theme=dark)](https://skillicons.dev)
 
 ### 💼 Ferramentas:
 

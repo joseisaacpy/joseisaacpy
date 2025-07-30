@@ -3,7 +3,7 @@
 <img src="./readme-github-sem-bg.png" alt="Isaac animado programando" width="300px" align="right" >
 
 <p align="left"> 
-👋 Olá! Eu me chamo José Isaac
+👋 Olá! Eu me chamo José Isaac.
  
  🧑🏽‍💻 Sou desenvolvedor com foco em <strong>Front-end</strong>, apaixonado por tecnologia e inovação.
  

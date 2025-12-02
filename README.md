@@ -26,7 +26,7 @@
   <a href="mailto:joseisaacnascimento@gmail.com" title="Gmail">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-isaac-nascimento/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/jose-isaac-nascimento/" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/j0se_isaacsn/" title="Instagram">

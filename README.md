@@ -5,7 +5,7 @@
 <p align="left"> 
 👋 Olá! Eu me chamo José Isaac.
  
- 🧑🏽‍💻 Sou desenvolvedor com foco em <strong>Front-end</strong>, apaixonado por tecnologia e inovação.
+ 🧑🏽‍💻 Sou desenvolvedor <strong>Full Stack</strong>, apaixonado por tecnologia e inovação.
  
  🎓 Atualmente curso Análise e Desenvolvimento de Sistemas.
  
@@ -14,11 +14,11 @@
 
 ### 💻 Linguagens:
 
-[![Tecnologias](https://skillicons.dev/icons?i=js,html,css,react,next,tailwindcss,nodejs,express&theme=dark)](https://skillicons.dev)
+[![Tecnologias](https://skillicons.dev/icons?i=js,ts,html,css,react,next,tailwindcss,nodejs,express,python,selenium&theme=dark)](https://skillicons.dev)
 
 ### 💼 Ferramentas:
 
-[![Ferramentas](https://skillicons.dev/icons?i=vscode,git,github,figma,supabase,mongo,postgresql,mysql,vercel,netlify&theme=dark)](https://skillicons.dev)
+[![Ferramentas](https://skillicons.dev/icons?i=vscode,git,github,figma,supabase,mongo,postgresql,mysql,vercel,netlify,mint&theme=dark)](https://skillicons.dev)
 
 
 ### 💌 Fale comigo:

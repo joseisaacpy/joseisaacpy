@@ -7,18 +7,15 @@
  
  🧑🏽‍💻 Sou desenvolvedor <strong>Full Stack</strong>, apaixonado por tecnologia e inovação.
  
- 🎓 Atualmente curso Análise e Desenvolvimento de Sistemas.
+ 🎓 Atualmente curso o 4° de Análise e Desenvolvimento de Sistemas.
  
  🚀 Sempre buscando evoluir como dev e transformar ideias em interfaces incríveis!
 </p>
 
 ### 💻 Linguagens:
-
-[![Tecnologias](https://skillicons.dev/icons?i=js,ts,html,css,react,next,tailwindcss,nodejs,express,python,selenium&theme=dark)](https://skillicons.dev)
-
+[![Tecnologias](https://skillicons.dev/icons?i=js,ts,html,css,react,next,tailwindcss,nodejs,express,python,selenium&theme=dark&perline=6)](https://skillicons.dev)
 ### 💼 Ferramentas:
-
-[![Ferramentas](https://skillicons.dev/icons?i=vscode,git,github,figma,supabase,mongo,postgresql,mysql,vercel,netlify,mint&theme=dark)](https://skillicons.dev)
+[![Ferramentas](https://skillicons.dev/icons?i=vscode,git,github,figma,supabase,mongo,postgresql,mysql,vercel,netlify,mint&theme=dark&perline=6)](https://skillicons.dev)
 
 
 ### 💌 Fale comigo:

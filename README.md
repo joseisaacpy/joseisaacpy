@@ -7,7 +7,7 @@
  
  🧑🏽‍💻 Sou desenvolvedor <strong>Full Stack</strong>, apaixonado por tecnologia e inovação.
  
- 🎓 Atualmente curso o 4° de Análise e Desenvolvimento de Sistemas.
+ 🎓 Atualmente curso o 4° período de Análise e Desenvolvimento de Sistemas.
  
  🚀 Sempre buscando evoluir como dev e transformar ideias em interfaces incríveis!
 </p>

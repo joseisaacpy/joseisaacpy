@@ -3,13 +3,11 @@
 <img src="./readme-github-sem-bg.png" alt="Isaac animado programando" width="300px" align="right" >
 
 <p align="left"> 
-👋 Olá! Eu me chamo José Isaac.
- 
- 🧑🏽‍💻 Sou desenvolvedor <strong>Full Stack</strong>, apaixonado por tecnologia e inovação.
- 
- 🎓 Atualmente curso o 4° período de Análise e Desenvolvimento de Sistemas.
- 
- 🚀 Sempre buscando evoluir como dev e transformar ideias em interfaces incríveis!
+ 👋 Olá! Eu sou José Isaac  
+
+ 🚀 Desenvolvedor Full Stack focado em criar interfaces modernas e APIs escaláveis  
+
+ 💡 Transformo ideias em produtos digitais eficientes e bem estruturados
 </p>
 
 ### 💻 Linguagens:

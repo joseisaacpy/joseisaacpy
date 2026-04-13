@@ -1,6 +1,6 @@
 # Bem-vindo(a) ao meu perfil! 🧑🏽‍💻
 
-<img src="./readme-github-sem-bg.png" alt="Isaac animado programando" width="300px" align="right" >
+<img src="./readme-github-sem-bg.png" alt="Isaac animado programando" width="301px" align="right" >
 
 <p align="left"> 
  👋 Olá! Eu sou José Isaac  
